@@ -1,0 +1,14 @@
+
+/.vscode
+/node_modules
+
+/.env
+
+metadata/
+!metadata/static/manual_following_list.json
+!metadata/static/README.md
+
+/js_api_poc
+
+data
+!data/inactive-user-analysis.xlsx
